@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @simplicityf
-- 👀 I’m interested in blockchain development 
-- 🌱 I’m currently learning fullstack development and blockchain
-- 💞️ I’m looking to collaborate on internship as a fullstack developer for now
+- 👋 Hi, I’m Azeezat Omobolanle Nasir
+- 👀 I’m a software engineer, building solutions in both web2 and web3 space 
+- 🌱 I am design, build, test, deploy both Fullstack applications and Decentralized application 
+- 💞️ Languages: JavaScript, Python, Solidity
 - 📫 How to reach me omobolanlehazeezat@gmail.com 
-- ⚡ Fun fact: i love learning
-
-<!---
-simplicityf/simplicityf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I love solving problems, I love learning, I also like partying :)
